@@ -1,0 +1,36 @@
+# created by virtualenv automatically
+# 忽略系统文件
+.DS_Store
+.cache/
+.idea/
+.vscode/
+.Trash/
+.localized
+desktop.ini
+
+# 忽略环境文件
+.env/
+*.env
+
+# 忽略Node.js依赖
+node_modules/
+
+# 忽略Python虚拟环境
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.venv/
+env/
+__pycache__/
+
+# 忽略日志文件
+*.log
+
+# 忽略其他不需要的文件
+*.prproj
+*.pages
+*.mov
+*.jpg
+*.png
+*.mp4
